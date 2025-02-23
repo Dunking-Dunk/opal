@@ -1,5 +1,5 @@
 import React from 'react'
-import { onAuthenticateUser } from '../actions/user'
+import { onAuthenticateUser } from '../../actions/user'
 import { redirect } from 'next/navigation'
 
 type Props = {}
